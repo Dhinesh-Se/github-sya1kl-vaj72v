@@ -1,0 +1,6 @@
+{
+  "startCommand": "npm run dev",
+  "env": {
+    "OPENAI_API_KEY": "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"
+  }
+}
